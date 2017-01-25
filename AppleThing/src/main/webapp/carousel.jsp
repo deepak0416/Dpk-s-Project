@@ -1,3 +1,4 @@
+
 <div id="myCarousel" class="carousel slide">
 <ol class="carousel-indicators">
 <li data-target="myCarousel" data-slide-to="0" class="active"></li>
@@ -6,7 +7,7 @@
 </ol>
 <div class="carousel-inner">
 <div class="item active">
-<img src="C:\Users\Lenovo\Downloads\stock-624712_1280.jpg"/>
+<img src="resources/Images/1.jpeg"/>
 <div class="container">
 <div class="carousel-caption">
 <h1>heading</h1>

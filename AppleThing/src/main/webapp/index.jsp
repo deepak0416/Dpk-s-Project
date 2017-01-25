@@ -10,6 +10,7 @@
 </head>
 <body>
 <%@include file="navbar.jsp" %>
+<%@include file="carousel.jsp" %>
 <%@include file="modallogin.jsp" %>
 <%@include file="signup.jsp" %>
 <%@include file="contact.jsp" %>
