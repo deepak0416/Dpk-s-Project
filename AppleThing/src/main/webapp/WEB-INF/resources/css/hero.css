@@ -1,0 +1,12 @@
+.hero-slide { margin-top:-20px; }
+#box{
+	border:rgba(0, 0, 0, 0.08) 1px solid;
+	outline:rgba(0, 0, 0, 0.08);
+	background-color:rgba(157, 157, 157, 0.23);
+	outline-width:small;
+	height:30px;
+	width:1366px;
+	text-align:center;
+	
+	
+}
