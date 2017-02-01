@@ -11,30 +11,36 @@
 <div class="container">
 <div class="carousel-caption">
 <h4>heading</h4>
-<p>sskjskdskhssjsk s jsc sc isc</p>
+<p>A touch of genius</p>
 </div>
 </div>
 </div>
 <div class="item">
-<img class="second-slide" src="resources/Images/2.jpeg" alt="Second slide">
+<img class="second-slide" src="resources/Images/6.jpeg" alt="Second slide">
 <div class="container">
 <div class="carousel-caption">
 <h4>heading</h4>
-<p>sskjskdskhssjsk s jsc sc isc</p>
+<p>Every day you get our best</p>
 </div>
 </div>
 </div>
 <div class="item">
-<img class="third-slide" src="resources/Images/3.jpeg" alt="Third slide">
+<img class="third-slide" src="C:\Users\Lenovo\Desktop\23.jpg" alt="Third slide">
 <div class="container">
 <div class="carousel-caption">
-<h4>heading</h4>
-<p>sskjskdskhssjsk s jsc sc isc</p>
+<h4>Watch Series 2</h4>
+<p>Introducing Series 2</p>
 </div>
 </div>
 </div>
 </div>
-<a class="left carosuel-control" data-slide="prev" href="#myCarousel"><span class="icon-prev"></span></a>
-<a class="right carosuel-control" data-slide="next" href="#myCarousel"><span class="icon-next"></span></a>
+ <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
 </div>
 

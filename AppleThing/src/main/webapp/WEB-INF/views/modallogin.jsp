@@ -6,8 +6,10 @@
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
+        	
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 style="color:red;"><span class="glyphicon glyphicon-lock"></span> Login</h4>
+          <h4 style="color:red;"><span class="glyphicon glyphicon-lock"></span> Login <img class="img-right" id="img_logo" src="C:\Users\Lenovo\Desktop\123.png" width="45px" height="45px"></h4>
+          
         </div>
         <div class="modal-body">
           <form role="form">

@@ -10,4 +10,9 @@ public class HomeController {
 	{
 		return "index";
 	}
+	@RequestMapping("/prod")
+	public String data()
+	{
+		return "product";
+	}
 }

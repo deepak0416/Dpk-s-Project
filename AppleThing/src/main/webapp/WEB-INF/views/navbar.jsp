@@ -14,6 +14,7 @@
     <ul class="nav navbar-nav">
       <li class="active"><a href="#">Home</a></li>
       <li><a href="#">About</a></li>
+      <li><a href="prod">Products</a></li>
       <li><a href="#" data-toggle="modal" data-target="#contactmodal">Contact Us</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
